@@ -1,0 +1,13 @@
+{
+  "name": "devpixelsperpx-toggle",
+  "fullName": "devpixelsperpx-toggle",
+  "title": "devpixelsperpx-toggle",
+  "id": "devpixelsperpx-toggle",
+  "description": "This Plugin sets `devpixelsperpx-toggle` to 2.",
+  "homepage": "https://addons.mozilla.org/firefox/addon/devpixelsperpx-toggle/",
+  "icon": "icon.png",
+  "icon64": "icon-64.png",
+  "author": "Ruben Barkow",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}
