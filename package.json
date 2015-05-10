@@ -3,11 +3,11 @@
   "fullName": "Zoom Menu Elements",
   "title": "Zoom Menu Elements",
   "id": "devpixelsperpx-toggle",
-  "description": "Zoom all elementsby factor 2. It works by setting the value of `layout.css.devPixelsPerPx` to 2",
+  "description": "Zoom all elements by factor 2. It works by setting the value of `layout.css.devPixelsPerPx` to 2",
   "homepage": "https://addons.mozilla.org/de/firefox/addon/zoom-menu-elements/",
   "icon": "icon.png",
   "icon64": "icon-64.png",
   "author": "Ruben Barkow",
   "license": "MPL 2.0",
-  "version": "1.0"
+  "version": "2.0"
 }
