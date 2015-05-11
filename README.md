@@ -10,3 +10,6 @@ Or better yet, you can do it by installing this Add-On into firefox.
  - Addon: https://addons.mozilla.org/de/firefox/addon/zoom-menu-elements/
  - Source: https://github.com/rubo77/devPixelsPerPx-Toggle
 
+#Alternative:
+
+Also a nice Addon: <a href="https://addons.mozilla.org/En-us/firefox/addon/autohidpi/">AutoHiDPI</a> which might even be the better solution than this.
