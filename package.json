@@ -2,12 +2,35 @@
   "name": "devpixelsperpx-toggle",
   "fullName": "Zoom Menu Elements",
   "title": "Zoom Menu Elements",
-  "id": "devpixelsperpx-toggle",
-  "description": "Zoom all elements by factor 2. It works by setting the value of `layout.css.devPixelsPerPx` to 2",
+  "id": "devpixelsperpx-toggle@jetpack",
+  "description": "Zoom all elements by a scaling factor. It works by setting the value of `layout.css.devPixelsPerPx`",
   "homepage": "https://addons.mozilla.org/de/firefox/addon/zoom-menu-elements/",
   "icon": "icon.png",
   "icon64": "icon-64.png",
   "author": "Ruben Barkow",
   "license": "MPL 2.0",
-  "version": "2.0"
+  "version": "2.1.0",
+  "main": "lib/main.js",
+  "preferences": [{
+    "name": "targetScaling",
+    "title": "Target Scaling",
+    "description": "Value to set devPixelsPerPx to",
+    "type": "menulist",
+    "value": 200,
+    "options": [
+      {
+        "value": 125,
+        "label": "1.25"
+      },
+      {
+        "value": 150,
+        "label": "1.5"
+      },
+      {
+        "value": 200,
+        "label": "2.0"
+      }
+    ]
+  }
+                 ]
 }
